@@ -1,0 +1,12 @@
+*.log
+settings.py
+*.pyc
+*\__pycache__
+*\env
+*\testing
+*\requirements.txt
+*\Procfile
+*\runtime.txt
+*\.vscode
+*\_netrc
+*\python-getting-started
