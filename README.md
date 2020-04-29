@@ -9,8 +9,7 @@
 
 Библиотеки
 =============================
-telebot
-BeautifulSoup 
+telebot и BeautifulSoup 
 
 
 Команды
